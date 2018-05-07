@@ -118,5 +118,6 @@ class hashtags
       cout << "Invalid choice"; //input validation so user can only pick from menu choices.
     }
     
+    
     return 0;
   }
